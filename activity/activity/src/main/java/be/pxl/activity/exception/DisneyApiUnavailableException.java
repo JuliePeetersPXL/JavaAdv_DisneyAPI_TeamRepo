@@ -5,4 +5,4 @@ public class DisneyApiUnavailableException extends RuntimeException {
     public DisneyApiUnavailableException(String message, Throwable cause) {
         super(message, cause);
     }
-
+}
