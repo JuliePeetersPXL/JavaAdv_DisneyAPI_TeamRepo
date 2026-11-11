@@ -1,5 +1,9 @@
 package be.pxl.activity.exception;
 
-public class ForbiddenActionException {
-
+// Eis van de opdracht: eigen UNCHECKED exception (extends RuntimeException) -> 403
+public class ForbiddenActionException extends RuntimeException {
+    public ForbiddenActionException(String message) {
+        super(message);
+    }
 }
+
