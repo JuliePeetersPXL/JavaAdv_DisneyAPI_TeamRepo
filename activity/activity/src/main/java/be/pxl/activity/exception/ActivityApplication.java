@@ -1,4 +1,4 @@
-package be.pxl.activity;
+package be.pxl.activity.exception;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
