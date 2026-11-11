@@ -1,5 +1,5 @@
 package be.pxl.activity.util;
 
-public class StatsCalculatorTEst {
+public class StatsCalculatorTest {
 
 }
